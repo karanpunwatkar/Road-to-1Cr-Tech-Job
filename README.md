@@ -44,11 +44,10 @@ This is not just about the final result — it's about giving my **101%** every 
 
 | Day | Date | Platform | Work Done |
 |-----|------|----------|-----------|
-| 1   | May 28 | CodeChef | Practiced problems on Arrays & Sorting |
-|     |       | LeetCode | Solved 2 Easy, 1 Medium problem |
-|     |       | GitHub   | Created this repo |
+| 1   | May 28 | CodeChef | Practiced problems on js basics|
+|     |       | LeetCode | Solved 1 problem of 2sum |
+|     |       | GFG      |Read articles on GFG |
 | 2   | May 29 | GFG      | Studied Linked List & Recursion notes |
-|     |       | LeetCode | Solved 3 Medium problems |
 | ... | ...   | ...      | ... |
 
 ➕ *Daily logs will be updated here or inside the `/logs` folder.*
@@ -85,7 +84,7 @@ This is not just about the final result — it's about giving my **101%** every 
 ---
 
 ## 📚 Resources I’ll Use
-- [NeetCode 150](https://neetcode.io/)  
+- CS50 for lectures and content
 - CodeChef Practice Tracks  
 - JavaScript.info & MDN Web Docs  
 - Roadmap.sh Developer Roadmaps  
@@ -99,13 +98,6 @@ This is not just about the final result — it's about giving my **101%** every 
 - I just graduated and this is my shot.  
 - I don’t know if I’ll get 1 crore or not — but I will give my **everything** to try.  
 - I’ll keep showing up. Every day. No excuses.
-
----
-
-## 📌 Final Words
-
-> **“Grind now, shine later. Let your work speak.”**  
-> This is not just a repo — it’s proof of discipline, dedication, and the belief that background doesn't define your ceiling. Let’s go.
 
 ---
 
