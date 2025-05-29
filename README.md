@@ -1,1 +1,1 @@
-# Road-to-1Cr-Tech-Job
+# 6-Month Coding & Dev Journey (May–Nov 2025
